@@ -1,0 +1,76 @@
+/*************************************************************************
+ * Your custom CSS file
+ *************************************************************************/
+
+.custom-dropdown {
+  width: 240px;
+}
+
+.custom-textbox {
+  width: 240px;
+}
+
+#dialog-1,
+#dialog-2,
+#dialog-3,
+#dialog-4,
+#share-dialog {
+  display: none;
+}
+
+#share-url {
+  width: 100%;
+  -webkit-touch-callout: default !important;
+  -webkit-user-select: text !important;
+  -khtml-user-select: text !important;
+  -moz-user-select: text !important;
+  -ms-user-select: text !important;
+  user-select: text !important;
+}
+
+#share-url-copy-prompt {
+  display: none;
+  color: #007bff;
+}
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 700 */
+
+.kantumruy-pro-flex-grow {
+  font-family: "Kantumruy Pro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 24px;
+  color: #333333;
+  margin: 30px 0 0 0;
+  padding: 0;
+  font-weight: bold;
+  font-family: "Kantumruy Pro", sans-serif;
+}
+
+h3 {
+  font-size: 18px;
+  color: #333333;
+  margin: 10px 0 0 0;
+  padding: 0;
+  font-weight: bold;
+  font-family: "Kantumruy Pro", sans-serif;
+}
+
+h4 {
+  font-size: 14px;
+  color: #333333;
+  margin: 10px 0 0 0;
+  padding: 0;
+  font-weight: bold;
+  font-family: "Kantumruy Pro", sans-serif;
+}
+
+.custom-button-primary {
+  background-color: #0d0d0e;
+  border-color: #007bff;
+}
